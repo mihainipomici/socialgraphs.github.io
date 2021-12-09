@@ -1,7 +1,7 @@
 ## This is the repository for the website deployment. You can access the following link in order to access the website page:
  - https://mihainipomici.github.io/socialgraphs.github.io/
 
-##  !!NOTE!! The deployment is not ye finalized. To see the whole website content, please clone our parent repository:  
+##  !!NOTE!! The deployment is not yet finalized. To see the whole website content, please clone our parent repository:  
  - https://github.com/mihainipomici/blog.git 
 
 and run it locally from a terminal using Hugo inside the repository folder with this command:
