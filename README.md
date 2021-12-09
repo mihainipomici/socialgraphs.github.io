@@ -1,5 +1,5 @@
 ## This is the repository for the website deployment. You can access the following link in order to access the website page:
- - https://mihainipomici.github.io/ 
+ - https://mihainipomici.github.io/socialgraphs.github.io/
 
 ## In case it is not working, please clone our parent repository:  
  - https://github.com/mihainipomici/blog.git 
