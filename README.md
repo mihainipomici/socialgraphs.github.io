@@ -1,4 +1,4 @@
-## Due to deployment issue the final Webiste URL for is:
+## Due to deployment issue the final Webiste URL is:
 
 https://socialgraphs-south-park.netlify.app/
 
