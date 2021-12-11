@@ -1,13 +1,19 @@
-## This is the repository for the website deployment. You can access the following link in order to access the website page:
- - https://mihainipomici.github.io/socialgraphs.github.io/
+## Due to deployment issue the final Webiste URL for is:
 
-##  !!NOTE!! The deployment is not yet finalized. To see the whole website content, please clone our parent repository:  
+https://socialgraphs-south-park.netlify.app/
+
+##  !!NOTE!! This is the repository used to deploy our parent repository:  
  - https://github.com/mihainipomici/blog.git 
 
-and run it locally from a terminal using Hugo inside the repository folder with this command:
- - hugo server
+One can clone and run the parent repo locally. While in the repository folder run from a terminal using the Hugo command:
+ - hugo server -D
 
-## In case you have troubles with Hugo, check out this link: 
+In case you have troubles with Hugo, check out this link: 
 - https://gohugo.io/getting-started/installing/ 
+
+
+* The old URL (incomplete) was:
+ - https://mihainipomici.github.io/socialgraphs.github.io/
+
 
 # Thank you! 
